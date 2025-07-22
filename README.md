@@ -1,5 +1,5 @@
 # 💫 About Me:
-A fraud detection ML project (Job Shield) and an Angular-based Food Delivery Website .<br>Full-stack or ML projects that solve real-world problems with data and tech.<br>CI/CD, MLOps practices, and improving testing in full-stack applications<br>Angular testing, AWS fundamentals, ETL workflows, and prompt engineering<br> MERN stack, data cleaning with Pandas, ML workflows, and project portfolio building<br>Built a food app clone that taught me real-world debugging
+🔭 I’m currently working on A fraud detection ML project (Job Shield) and an Angular-based Food Delivery Website<br>👯 I’m looking to collaborate on Full-stack or ML projects that solve real-world problems with data and tech.<br>🤝 I’m looking for help with CI/CD, MLOps practices, and improving testing in full-stack applications<br>🌱 I’m currently learning Angular testing, AWS fundamentals, ETL workflows, and prompt engineering<br>💬 Ask me about MERN stack, data cleaning with Pandas, ML workflows, and project portfolio building<br>⚡ Fun fact Built a food app clone that taught me real-world debugging<br><br>
 
 
 ## 🌐 Socials:
